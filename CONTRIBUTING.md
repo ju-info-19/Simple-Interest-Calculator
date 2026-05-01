@@ -1,3 +1,5 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 # Guide de contribution
 
 Nous sommes ravis que vous souhaitiez contribuer à ce projet !  
